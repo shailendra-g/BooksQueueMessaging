@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BooksQueueMessaging", "BooksQueueMessaging\BooksQueueMessaging.csproj", "{983F5E49-D944-4CF4-8B55-DCD82144846F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{983F5E49-D944-4CF4-8B55-DCD82144846F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{983F5E49-D944-4CF4-8B55-DCD82144846F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{983F5E49-D944-4CF4-8B55-DCD82144846F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{983F5E49-D944-4CF4-8B55-DCD82144846F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7E16C3D4-7217-40E2-B606-3846724B0FED}
+	EndGlobalSection
+EndGlobal
